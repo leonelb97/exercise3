@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+	precomposeunicode = true
+[remote "exercise3"]
+	url = https://github.com/leonelb97/exercise3.git
+	fetch = +refs/heads/*:refs/remotes/exercise3/*
+[pull]
+	rebase = false
