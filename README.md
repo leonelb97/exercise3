@@ -9,3 +9,11 @@
 
 The project is divided in page objects screens, and test suite
 
+I couldn't resolve some points as:
+
+4-c.&& 5 "Get in touch" button was not displayed, I clicked on "submit" button instead of
+
+7- All mandatory fields were in red
+
+11- I didn't understand if check e-mail field or the mandatory field, anyways e-mail field was not
+in red, and all mandatory fields were in red
