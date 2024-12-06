@@ -17,3 +17,6 @@ I couldn't resolve some points as:
 
 11- I didn't understand if check e-mail field or the mandatory field, anyways e-mail field was not
 in red, and all mandatory fields were in red
+
+Probably I made a mistake with .gitignore file and project could be broken, recomend to create a new one with
+scr folder and pom.xml file
